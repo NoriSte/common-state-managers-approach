@@ -1,6 +1,6 @@
 # React State Management
 
-This project contains a possible approach for a unified management of different State Managers.
+This project contains a possible approach for unified management of different State Managers.
 
 ## Goals
 
